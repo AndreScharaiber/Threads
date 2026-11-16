@@ -1,7 +1,7 @@
 # Threads
 André Luís Scharaiber Alves
 Python
-Link para o YouTube:
+Link para o YouTube: https://youtu.be/HIDJYEyITbg
 
 Atividade 1 - Jantar dos Filósofos
 
